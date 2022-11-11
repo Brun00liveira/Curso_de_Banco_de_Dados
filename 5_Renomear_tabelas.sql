@@ -1,0 +1,1 @@
+rename table tb_cursos to tb_curso;
